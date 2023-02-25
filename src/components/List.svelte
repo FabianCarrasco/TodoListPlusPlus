@@ -73,4 +73,9 @@
         justify-content: flex-start;
         align-items: center;
     }
+
+    .list-content {
+        height: 20rem;
+        overflow-y: auto;
+    }
 </style>
